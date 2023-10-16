@@ -16,7 +16,7 @@
 
 #### Generative AI
 
-[Midjourney](https://midjourney.com)</br>
+[Midjourney](https://docs.midjourney.com)</br>
 [](https://)</br>
 
 #### UI Libraries
