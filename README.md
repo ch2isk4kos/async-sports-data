@@ -55,7 +55,7 @@ API-Sports: [documentation/nfl/v1](https://api-sports.io/documentation/nfl/v1)</
 
 ### Articles
 
-[](https://)</br>
+[How to Fetch Data in React with Performance in Mind](https://www.developerway.com/posts/how-to-fetch-data-in-react)</br>
 
 ### Documentation
 
