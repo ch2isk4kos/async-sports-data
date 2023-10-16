@@ -64,6 +64,7 @@ API-Sports: [documentation/nfl/v1](https://api-sports.io/documentation/nfl/v1)</
 [Next.js](https://nextjs.org/docs)</br>
 Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application/data-fetching)</br>
 [NextUI](https://nextui.org/docs/guide/introduction)</br>
+[React Query](https://tanstack.com/query/v4/docs/react/overview)</br>
 [TailwindCSS](https://tailwindcss.com/docs/installation)</br>
 [](https://)</br>
 [⬆](#project-notes)
@@ -93,3 +94,10 @@ Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application
 [NextUI](https://nextui.org)</br>
 [](https://)</br>
 [⬆](#project-notes)
+
+### Backend
+
+#### Server Side Data Management
+
+[React Query v3](https://tanstack.com/query/v3/)</br>
+[](https://)</br>
