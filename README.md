@@ -97,7 +97,7 @@ Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application
 
 ### Backend
 
-#### Server Side Data Management
+#### State Management
 
 [React Query v3](https://tanstack.com/query/v3/)</br>
 [](https://)</br>
