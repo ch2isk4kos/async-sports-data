@@ -2,6 +2,11 @@
 
 ## Development Resources
 
+### Articles
+
+[Next.js Data Fetching](https://nextjs.org/docs/pages/building-your-application/data-fetching)</br>
+[](https://)</br>
+
 ### Documentation
 
 [Framer Motion](https://www.framer.com/motion/)</br>
@@ -9,11 +14,6 @@
 [Next.js](https://nextjs.org/docs)</br>
 [NextUI](https://nextui.org/docs/guide/introduction)</br>
 [TailwindCSS](https://tailwindcss.com/docs/installation)</br>
-[](https://)</br>
-
-#### Data Fetching
-
-[Next.js Data Fetching](https://nextjs.org/docs/pages/building-your-application/data-fetching)</br>
 [](https://)</br>
 
 ## Tools
