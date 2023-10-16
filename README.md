@@ -1,47 +1,14 @@
 # Asynchronous Sports Data
 
-## Tools
+## Project Notes
 
-### Frontend
-
-#### Client
-
-[Next.js](https://nextjs.org)</br>
-[](https://)</br>
-
-#### CSS
-
-[TailwindCSS](https://tailwindcss.org)</br>
-[](https://)</br>
-
-#### Generative AI
-
-[Midjourney](https://docs.midjourney.com)</br>
-[](https://)</br>
-
-#### UI Libraries
-
-[Framer Motion](https://www.framer.com/motion/)</br>
-[NextUI](https://nextui.org)</br>
-[](https://)</br>
-
-## Development Resources
-
-### Articles
-
-[](https://)</br>
-
-### Documentation
-
-[Framer Motion](https://www.framer.com/motion/)</br>
-[Midjourney](https://docs.midjourney.com)</br>
-[Next.js](https://nextjs.org/docs)</br>
-Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application/data-fetching)</br>
-[NextUI](https://nextui.org/docs/guide/introduction)</br>
-[TailwindCSS](https://tailwindcss.com/docs/installation)</br>
-[](https://)</br>
+[APIs](#apis)</br>
+[Developer Resources](#development-resources)</br>
+[Tools](#tools)</br>
 
 ## APIs
+
+_back to [top](#project-notes)_
 
 ### Misc
 
@@ -81,4 +48,49 @@ API-Sports: [documentation/nfl/v1](https://api-sports.io/documentation/nfl/v1)</
 ### Soccer
 
 [Sport Data API](https://sportdataapi.com)</br>
+[](https://)</br>
+
+## Development Resources
+
+_back to [top](#project-notes)_
+
+### Articles
+
+[](https://)</br>
+
+### Documentation
+
+[Framer Motion](https://www.framer.com/motion/)</br>
+[Midjourney](https://docs.midjourney.com)</br>
+[Next.js](https://nextjs.org/docs)</br>
+Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application/data-fetching)</br>
+[NextUI](https://nextui.org/docs/guide/introduction)</br>
+[TailwindCSS](https://tailwindcss.com/docs/installation)</br>
+[](https://)</br>
+
+## Tools
+
+_back to [top](#project-notes)_
+
+### Frontend
+
+#### Client
+
+[Next.js](https://nextjs.org)</br>
+[](https://)</br>
+
+#### CSS
+
+[TailwindCSS](https://tailwindcss.org)</br>
+[](https://)</br>
+
+#### Generative AI
+
+[Midjourney](https://docs.midjourney.com)</br>
+[](https://)</br>
+
+#### UI Libraries
+
+[Framer Motion](https://www.framer.com/motion/)</br>
+[NextUI](https://nextui.org)</br>
 [](https://)</br>
