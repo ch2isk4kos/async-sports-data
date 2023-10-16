@@ -5,7 +5,9 @@
 ### Misc
 
 [API-Sports](https://api-sports.io)</br>
-[The-Odds-API](https://the-odds-api.come)</br>
+[Sport Radar](https://sportradar.com)</br>
+[SportsData.io](https://sportsdata.io)</br>
+[The Odds API](https://the-odds-api.come)</br>
 []()</br>
 
 ### Baseball
