@@ -1,21 +1,5 @@
 # Asynchronous Sports Data
 
-## Development Resources
-
-### Articles
-
-[](https://)</br>
-
-### Documentation
-
-[Framer Motion](https://www.framer.com/motion/)</br>
-[Midjourney](https://docs.midjourney.com)</br>
-[Next.js](https://nextjs.org/docs)</br>
-Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application/data-fetching)</br>
-[NextUI](https://nextui.org/docs/guide/introduction)</br>
-[TailwindCSS](https://tailwindcss.com/docs/installation)</br>
-[](https://)</br>
-
 ## Tools
 
 ### Frontend
@@ -39,6 +23,22 @@ Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application
 
 [Framer Motion](https://www.framer.com/motion/)</br>
 [NextUI](https://nextui.org)</br>
+[](https://)</br>
+
+## Development Resources
+
+### Articles
+
+[](https://)</br>
+
+### Documentation
+
+[Framer Motion](https://www.framer.com/motion/)</br>
+[Midjourney](https://docs.midjourney.com)</br>
+[Next.js](https://nextjs.org/docs)</br>
+Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application/data-fetching)</br>
+[NextUI](https://nextui.org/docs/guide/introduction)</br>
+[TailwindCSS](https://tailwindcss.com/docs/installation)</br>
 [](https://)</br>
 
 ## APIs
