@@ -16,6 +16,7 @@
 ### Basketball
 
 [API-Basketball](https://api-basketball.com)</br>
+[API-Sports.io/documentation/nba/v2](https://api-sports.io/documentation/nba/v2)</br>
 
 ### Misc
 
