@@ -12,6 +12,10 @@
 
 [TailwindCSS](https://tailwindcss.org)</br>
 
+#### Generative AI
+
+[Midjourney](https://midjourney.com)</br>
+
 #### UI Libraries
 
 [Framer Motion](https://www.framer.com/motion/)</br>
