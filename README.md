@@ -49,6 +49,10 @@
 [Ball Don't Lie](https://www.balldontlie.io)</br>
 [](https://)</br>
 
+### Fantasy
+
+[](https://)</br>
+
 ### Football
 
 [API-Sports.io/documentation/nfl/v1](https://api-sports.io/documentation/nfl/v1)</br>
