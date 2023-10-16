@@ -3,7 +3,7 @@
 ## Project Notes
 
 [APIs](#apis)</br>
-[Project Resources](#project-resources)</br>
+[Resources](#resources)</br>
 [Tools](#tools)</br>
 [](https://)</br>
 [⬆](#project-notes)
@@ -51,7 +51,7 @@ API-Sports: [documentation/nfl/v1](https://api-sports.io/documentation/nfl/v1)</
 [](https://)</br>
 [⬆](#project-notes)
 
-## Project Resources
+## Resources
 
 ### Articles
 
