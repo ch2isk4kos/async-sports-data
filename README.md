@@ -5,6 +5,7 @@
 ### Misc
 
 [API-Sports](https://api-sports.io)</br>
+[RapidAPI/collection/sports-data-api](https://rapidapi.com/collection/sports-data-api)</br>
 [Sport Radar](https://sportradar.com)</br>
 [SportsData.io](https://sportsdata.io)</br>
 [The Odds API](https://the-odds-api.come)</br>
@@ -20,6 +21,7 @@
 
 [API-Basketball](https://api-basketball.com)</br>
 [API-Sports.io/documentation/nba/v2](https://api-sports.io/documentation/nba/v2)</br>
+[Ball Don't Lie](https://www.balldontlie.io)</br>
 []()</br>
 
 ### Football
