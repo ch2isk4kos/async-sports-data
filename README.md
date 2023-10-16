@@ -101,7 +101,6 @@ Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application
 [Framer Motion](https://www.framer.com/motion/)</br>
 [NextUI](https://nextui.org)</br>
 [](https://)</br>
-[⬆](#project-notes)
 
 ### Backend
 
@@ -109,3 +108,4 @@ Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application
 
 [React Query v3](https://tanstack.com/query/v3/)</br>
 [](https://)</br>
+[⬆](#project-notes)
