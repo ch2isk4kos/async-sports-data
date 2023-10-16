@@ -61,7 +61,7 @@ RapidAPI: [collection/sports-data-api](https://rapidapi.com/collection/sports-da
 ### Basketball
 
 [API-Basketball](https://api-basketball.com)</br>
-API-Sports.io: [documentation/nba/v2](https://api-sports.io/documentation/nba/v2)</br>
+API-Sports: [documentation/nba/v2](https://api-sports.io/documentation/nba/v2)</br>
 [Ball Don't Lie](https://www.balldontlie.io)</br>
 [](https://)</br>
 
@@ -71,7 +71,7 @@ API-Sports.io: [documentation/nba/v2](https://api-sports.io/documentation/nba/v2
 
 ### Football
 
-API-Sports.io: [documentation/nfl/v1](https://api-sports.io/documentation/nfl/v1)</br>
+API-Sports: [documentation/nfl/v1](https://api-sports.io/documentation/nfl/v1)</br>
 [](https://)</br>
 
 ### Hockey
