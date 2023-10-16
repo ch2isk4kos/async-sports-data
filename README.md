@@ -2,11 +2,11 @@
 
 ## Project Notes
 
-[APIs](#apis-⬆)</br>
-[Project Resources](#project-resources-⬆)</br>
-[Tools](#tools-⬆)</br>
+[APIs](#apis)</br>
+[Project Resources](#project-resources)</br>
+[Tools](#tools)</br>
 
-## APIs [⬆](#project-notes)
+## APIs
 
 ### Misc
 
@@ -48,7 +48,9 @@ API-Sports: [documentation/nfl/v1](https://api-sports.io/documentation/nfl/v1)</
 [Sport Data API](https://sportdataapi.com)</br>
 [](https://)</br>
 
-## Project Resources [⬆](#project-notes)
+[⬆](#project-notes)</br>
+
+## Project Resources
 
 ### Articles
 
@@ -64,7 +66,9 @@ Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application
 [TailwindCSS](https://tailwindcss.com/docs/installation)</br>
 [](https://)</br>
 
-## Tools [⬆](#project-notes)
+[⬆](#project-notes)
+
+## Tools
 
 ### Frontend
 
@@ -88,3 +92,5 @@ Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application
 [Framer Motion](https://www.framer.com/motion/)</br>
 [NextUI](https://nextui.org)</br>
 [](https://)</br>
+
+[⬆](#project-notes)
