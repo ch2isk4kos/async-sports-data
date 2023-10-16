@@ -6,9 +6,7 @@
 [Developer Resources](#development-resources)</br>
 [Tools](#tools)</br>
 
-## APIs
-
-_back to [top](#project-notes)_
+## APIs [⬆](#project-notes)
 
 ### Misc
 
@@ -50,9 +48,7 @@ API-Sports: [documentation/nfl/v1](https://api-sports.io/documentation/nfl/v1)</
 [Sport Data API](https://sportdataapi.com)</br>
 [](https://)</br>
 
-## Development Resources
-
-_back to [top](#project-notes)_
+## Development Resources [⬆](#project-notes)
 
 ### Articles
 
@@ -68,9 +64,7 @@ Next.js: [Data Fetching](https://nextjs.org/docs/pages/building-your-application
 [TailwindCSS](https://tailwindcss.com/docs/installation)</br>
 [](https://)</br>
 
-## Tools
-
-_back to [top](#project-notes)_
+## Tools [⬆](#project-notes)
 
 ### Frontend
 
