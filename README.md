@@ -1,5 +1,17 @@
 # Asynchronous Sports Data
 
+## Development Resources
+
+### Documentation
+
+[Next.js](https://nextjs.org/docs)</br>
+[](https://)</br>
+
+#### Data Fetching
+
+[Client-and-Server-Side Data Fetching in React](https://sportdataapi.com)</br>
+[](https://)</br>
+
 ## Tools
 
 ### Frontend
