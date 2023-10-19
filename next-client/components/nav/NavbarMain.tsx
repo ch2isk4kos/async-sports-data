@@ -12,7 +12,7 @@ export default function NavbarMain() {
   ]
 
   return (
-    <Navbar onMenuOpenChange={setIsMenuOpen}>
+    <Navbar onMenuOpenChange={setIsMenuOpen} isBordered>
       {/* Left Side Content */}
       <NavbarContent>
         {/* Menu Toggle */}
