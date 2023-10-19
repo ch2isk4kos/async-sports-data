@@ -1,9 +1,10 @@
+"use client"
 import { useState } from "react"
 import { Button, Link, Navbar, NavbarBrand, NavbarContent, NavbarItem, NavbarMenu, NavbarMenuItem, NavbarMenuToggle } from "@nextui-org/react"
 
 export default function NavbarMain() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  
+
   const menutItems = [
     "About",
     "Contact",
@@ -12,10 +13,18 @@ export default function NavbarMain() {
 
   return (
     <Navbar onMenuOpenChange={setIsMenuOpen}>
-      {/* LOGO */}
-      <NavbarBrand>
-        <h1>LOGO</h1>
-      </NavbarBrand>
+      {/* Left Side Content */}
+      <NavbarContent>
+        {/* Menu Toggle */}
+        <NavbarMenuToggle
+          aria-label={isMenuOpen ? "Close" : "Open"}
+          className="sm:hidden"
+        />
+        {/* LOGO */}
+        <NavbarBrand>
+          <h1>LOGO</h1>
+        </NavbarBrand>
+      </NavbarContent>
       {/* Links */}
       <NavbarContent className="hidden sm:flex gap-4" justify="center">
         <NavbarItem>
@@ -36,11 +45,11 @@ export default function NavbarMain() {
       </NavbarContent>
       {/* Right Side Content */}
       <NavbarContent justify="end">
-        {/* Signup Button */}
+        {/* Signup */}
         <Button as={Link} href="#" color="primary" variant="flat">
           SignUp
         </Button>
-        {/* Navbar Menu */}
+        {/* Menu */}
         <NavbarMenu>
           { menutItems.map((item, index) => (
             <NavbarMenuItem key={`${item}-${index}`}>
