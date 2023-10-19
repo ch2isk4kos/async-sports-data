@@ -25,6 +25,12 @@ export default function NavbarMain() {
           </Link>
         </NavbarItem>
       </NavbarContent>
+      {/* Right Side Content */}
+      <NavbarContent className="hidden sm:flex gap-4" justify="center">
+        <Button as={Link} href="#" color="primary" variant="flat">
+          SignUp
+        </Button>
+      </NavbarContent>
     </Navbar>
   )
 }
