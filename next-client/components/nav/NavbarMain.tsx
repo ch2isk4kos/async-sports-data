@@ -32,7 +32,7 @@ export default function NavbarMain() {
             MLB
           </Link>
         </NavbarItem>
-        <NavbarItem isActive>
+        <NavbarItem>
           <Link href="#" aria-current="page">
             NFL
           </Link>
