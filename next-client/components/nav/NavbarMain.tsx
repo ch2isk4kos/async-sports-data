@@ -3,9 +3,11 @@ import { Button, Link, Navbar, NavbarBrand, NavbarContent, NavbarItem, NavbarMen
 export default function NavbarMain() {
   return (
     <Navbar>
+      {/* LOGO */}
       <NavbarBrand>
         <h1>LOGO</h1>
       </NavbarBrand>
+      {/* Links */}
       <NavbarContent className="hidden sm:flex gap-4" justify="center">
         <NavbarItem>
           <Link color="foreground" href="#">
