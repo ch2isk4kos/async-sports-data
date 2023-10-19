@@ -2,9 +2,10 @@ import { Navbar, NavbarBrand, NavbarContent, NavbarItem, NavbarMenuToggle, Navba
 
 export default function NavbarMain() {
   return (
-    <div>
-      {/*  */}
-      {/*  */}
-    </div>
+    <Navbar>
+      <NavbarBrand>
+        <h1>LOGO</h1>
+      </NavbarBrand>
+    </Navbar>
   )
 }
