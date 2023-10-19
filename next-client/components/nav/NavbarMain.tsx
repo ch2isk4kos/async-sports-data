@@ -26,7 +26,7 @@ export default function NavbarMain() {
         </NavbarItem>
       </NavbarContent>
       {/* Right Side Content */}
-      <NavbarContent className="hidden sm:flex gap-4" justify="center">
+      <NavbarContent justify="end">
         <Button as={Link} href="#" color="primary" variant="flat">
           SignUp
         </Button>
