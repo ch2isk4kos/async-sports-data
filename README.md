@@ -17,6 +17,9 @@ RapidAPI: [collection/sports-data-api](https://rapidapi.com/collection/sports-da
 [Sport Radar](https://sportradar.com)</br>
 [SportsData.io](https://sportsdata.io)</br>
 [The Odds API](https://the-odds-api.com)</br>
+[Yahoo! Developer](https://developer.yahoo.com)</br>
+Yahoo! Developer [Fantasty Sports API](https://developer.yahoo.com/fantasysports/guide/)</br>
+Yahoo! Developer [Open Source](https://developer.yahoo.com/opensource)</br>
 [](https://)</br>
 
 ### Baseball
