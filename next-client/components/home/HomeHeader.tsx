@@ -12,7 +12,7 @@ export default function HomeHeader() {
 
   return (
     // <section className="flex flex-col w-auto h-auto gap-2 m-4 p-4 md:flex-row border-2 border-rose-500">
-    <section className="flex flex-col w-auto h-auto gap-2 m-4 p-4 md:flex-row border-2 border-rose-500">
+    <section className="flex flex-col w-auto h-auto gap-2 mx-0 md:flex-row md:mx-20 border-2 border-rose-500">
       {/* Row Column 1 */}
       {/* <div className="basis-1/2 h-auto border-2 border-blue-500"> */}
       <div className="w-[100%] md:w-[40%] border-2 border-blue-500">
@@ -37,7 +37,7 @@ export default function HomeHeader() {
         </Card>
       </div>
       {/* Row Column 2 */}
-      <div className="w-[100%] md:w-[30%] py-2 px-2 border-2 border-blue-500">
+      <div className="w-[100%] md:w-[40%] py-2 px-2 border-2 border-blue-500">
       {/* <div className="invisible md:visible w-[30%] h- p-2 border-2 border-blue-500"> */}
       {/* <div className="invisible md:visible basis-1/4 h-auto border-2 border-blue-500"> */}
       {/* <div className="hidden md:block w-[33%] h-auto border-2 border-blue-500"> */}
