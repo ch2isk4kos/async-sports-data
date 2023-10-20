@@ -20,9 +20,9 @@ export default function NavbarMain() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const menuItems = [
-    "About",
-    "Contact",
-    "Something Else"
+    "MLB",
+    "NBA",
+    "NFL",
   ]
 
   const dropdownIcons = {
@@ -81,7 +81,7 @@ export default function NavbarMain() {
         </NavbarItem>
       </NavbarContent>
       {/* Right Side Content */}
-      <NavbarContent justify="end">
+      <NavbarContent className="hideen sm:flex gap-4" justify="end">
         {/* Signup */}
         {/* <Button as={Link} href="#" color="primary" variant="flat">
           SignUp
@@ -98,7 +98,7 @@ export default function NavbarMain() {
                 radius="sm"
                 variant="light"
               >
-                v More
+                More v
               </Button>
             </DropdownTrigger>
           </NavbarItem>
