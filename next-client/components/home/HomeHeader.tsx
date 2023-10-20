@@ -37,11 +37,11 @@ export default function HomeHeader() {
         </Card>
       </div>
       {/* Row Column 2 */}
-      <div className="w-[100%] md:w-[30%] p-2 border-2 border-blue-500">
+      <div className="w-[100%] md:w-[30%] py-2 px-2 border-2 border-blue-500">
       {/* <div className="invisible md:visible w-[30%] h- p-2 border-2 border-blue-500"> */}
       {/* <div className="invisible md:visible basis-1/4 h-auto border-2 border-blue-500"> */}
       {/* <div className="hidden md:block w-[33%] h-auto border-2 border-blue-500"> */}
-        <div className="grid grid-cols-2 gap-4 border-2 border-yellow-500">
+        <div className="grid grid-cols-2 gap-4 content-center border-2 border-yellow-500">
           {
             blogs && blogs.map((blog) => (
               <Card
