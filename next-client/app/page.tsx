@@ -1,4 +1,5 @@
 import NavbarMain from "@/components/nav/NavbarMain";
+import HomeHeader from "@/components/home/HomeHeader";
 // import { main }from "../tailwind/home";
 
 export default function Home() {
@@ -8,7 +9,7 @@ export default function Home() {
     // <main className={main}>
     <main>
       <NavbarMain />
-      <h1>Home</h1>
+      <HomeHeader />
     </main>
   )
 }
