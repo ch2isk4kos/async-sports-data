@@ -13,7 +13,7 @@ export default function HomeTicker() {
   ];
 
   return (
-    <div className="App">
+    <div className="">
       <Ticker duration={20}>
         {scores.map((score, index) => (
           <div
