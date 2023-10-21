@@ -17,16 +17,14 @@ export default function HomeHeader() {
     { key: "article-4", headline: "Yankees Off Season Begins", label: "Article 4", url: ""},
     { key: "article-5", headline: "How Will Luka and Kyrie Co-exist?", label: "Article 5", url: ""},
     { key: "article-6", headline: "Miami is the Greatest Show on Surf", label: "Article 6", url: ""},
-    { key: "article-7", headline: "Miami is the Greatest Show on Surf", label: "Article 7", url: ""},
-    { key: "article-8", headline: "Miami is the Greatest Show on Surf", label: "Article 8", url: ""},
   ]
 
   return (
     // <section className="flex flex-col w-auto h-auto gap-2 m-4 p-4 md:flex-row border-2 border-rose-500">
-    <section className="flex flex-col w-auto h-auto gap-2 mx-0 md:flex-row md:mx-20 border-2 border-rose-500">
+    <section className="relative flex flex-col w-auto h-auto gap-2 items-center md:flex-row border-2 border-rose-500">
       {/* Row Column 1 */}
       {/* <div className="basis-1/2 h-auto border-2 border-blue-500"> */}
-      <div className="w-[100%] md:w-[40%] border-2 border-blue-500">
+      <div className="w-[100%] p-2 md:w-[40%] border-2 border-blue-500">
         <Card
           className="border-none"
           isFooterBlurred
@@ -35,8 +33,6 @@ export default function HomeHeader() {
           <Image
             className="z-10 object-fit"
             // className="z-10 md:object-cover"
-            // width={500}
-            // height={500}
             src={`https://s.hdnux.com/photos/01/34/56/75/24309591/3/1200x0.jpg`}
             alt="Davante Adams making a play on the ball"
           />
@@ -48,11 +44,11 @@ export default function HomeHeader() {
         </Card>
       </div>
       {/* Row Column 2 */}
-      <div className="w-[100%] md:w-[40%] border-2 border-blue-500">
+      <div className="relative w-[100%] md:w-[40%] p-2 border-2 border-blue-500">
       {/* <div className="invisible md:visible w-[30%] h- p-2 border-2 border-blue-500"> */}
       {/* <div className="invisible md:visible basis-1/4 h-auto border-2 border-blue-500"> */}
       {/* <div className="hidden md:block w-[33%] h-auto border-2 border-blue-500"> */}
-        <div className="grid grid-cols-2 gap-2 h-full border-2 border-yellow-500">
+        <div className="grid grid-cols-2 gap-2 items-center border-2 border-yellow-500">
           {
             blogs && blogs.map((blog) => (
               <Card
@@ -61,8 +57,8 @@ export default function HomeHeader() {
                 isFooterBlurred
               >
                 <Image
-                  // className="object-cover"
-                  className="object-fit"
+                  className="object-cover"
+                  // className="object-fit"
                   src={blog.img}
                   alt={blog.alt}
                 />
@@ -78,11 +74,11 @@ export default function HomeHeader() {
         </div>
       </div>
       {/* Row Column 3 */}
-      <div className="w-[100%] md:w-[20%] p-2 border-2 border-blue-500">
+      <div className="w-[100%] md:w-[20%] p-4 border-2 border-blue-500">
       {/* <div className="invisible md:visible flex flex-col items-center w-[30%] border-2 border-blue-500"> */}
       {/* <div className="invisible md:visible basis-1/4 h-auto border-2 border-blue-500"> */}
       {/* <div className="hidden md:block w-[33%] h-auto border-2 border-blue-500"> */}
-        <div className="">
+        <div className="grid grid-cols-2 gap-2 md:flex md:flex-col items-center">
           { 
           listItems && listItems.map((item) => (
             <Listbox
