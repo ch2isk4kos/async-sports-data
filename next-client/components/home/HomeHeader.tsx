@@ -20,7 +20,7 @@ export default function HomeHeader() {
   ]
 
   return (
-    <section className="relative flex flex-col md:flex-row w-auto h-auto gap-2 mt-0 md:mt-[15%] border-2 border-rose-500">
+    <section className="relative flex flex-col md:flex-row w-auto h-auto gap-2 mt-0 md:mt-[10%] border-2 border-rose-500">
       {/* Row Column 1 */}
       {/* <div className="basis-1/2 h-auto border-2 border-blue-500"> */}
       <div className="w-[100%] md:w-[40%] p-2 border-2 border-blue-500">
