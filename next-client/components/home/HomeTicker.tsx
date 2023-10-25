@@ -96,23 +96,22 @@ export default function HomeTicker() {
                 /> */}
                 <div className="w-full">
                   <p className="text-sm text-default-500">{score?.home_team}</p>
-                  <p className="text-sm text-default-500">{score?.away_team}</p>
+                  {/* <p className="text-sm text-default-500">{score?.away_team}</p> */}
                 </div>
               </CardHeader>
               <Divider/>
-              {/* <CardBody className="">
-                <Image
+              <CardBody className="">
+                {/* <Image
                   src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4"
                   height={10}
                   width={40}
                   radius="sm"
                   alt="nextui logo"
-                />
+                /> */}
                 <div className="">
-                  <p className="text-md">NextUI</p>
-                  <p className="text-small text-default-500">nextui.org</p>
+                  <p className="text-sm text-default-500">{score?.away_team}</p>
                 </div>
-              </CardBody> */}
+              </CardBody>
             </Card>
           </div>
         ))}
