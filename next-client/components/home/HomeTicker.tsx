@@ -2,7 +2,6 @@
 import React, { useState, useEffect } from 'react';
 import Ticker from 'framer-motion-ticker';
 import { Button, Card, CardHeader, CardBody, CardFooter, Divider, Image, Link } from "@nextui-org/react";
-import { log } from 'console';
 
 export default function HomeTicker() {
   // const [scores, setScores] = useState([])
