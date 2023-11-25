@@ -8,7 +8,6 @@ export default function Home() {
     // <main className={main}>
     // <main className="max-w-screen max-h-screen border-2 border-blue-700">
     // <main className="absolute w-auto h-auto p-0 md:px-20 lg:px-40 xl:px-60 border-2 border-blue-700">
-    // <main className="absolute w-auto h-auto p-0 md:px-20 lg:px-40 xl:px-60 border-2 border-blue-700">
     <main className="absolute w-auto h-auto p-0 border-2 border-blue-700">
       <HomeTicker />
       <HomeHeader />
