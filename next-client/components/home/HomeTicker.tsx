@@ -69,7 +69,7 @@ export default function HomeTicker() {
     //       setScores(obj.data);
     //     })
     //     .catch((err) => console.log(err));
-    // }, [])
+    // }, [scores])
 
   // fetch(`/api/the-odds-nfl`)
   //   .then((res) => res.json())
